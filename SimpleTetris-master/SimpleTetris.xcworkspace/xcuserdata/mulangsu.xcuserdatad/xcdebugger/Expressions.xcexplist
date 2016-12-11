@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Tetrimino.(init(tetrisBoard : TetrisBoard) -&gt; Tetrimino).(closure #1):Tetrimino.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.moveDown()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
